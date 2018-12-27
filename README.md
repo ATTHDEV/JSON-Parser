@@ -1,6 +1,6 @@
 # JSON Parser
 
-This library create for using json in c++ 
+JSON parser for c++
 
 ---
 **License**
